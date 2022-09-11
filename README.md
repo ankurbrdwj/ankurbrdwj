@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ankurbrdwj
-- 👀 I’m interested in Java, Spring framwork, Golang , Angular 
+- 👀 I’m interested in Java, Spring framework, Golang , Angular 
 - 🌱 I’m currently learning  Solidity (Blockchain/ Ethereum)
 - 💞️ I’m looking to collaborate on java / Go base products
 - 📫 How to reach me at @ankurbrdwj
